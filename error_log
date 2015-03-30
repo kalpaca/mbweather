@@ -1,0 +1,2 @@
+[28-Mar-2015 22:39:01 America/Denver] PHP Notice:  Undefined index: HTTP_ORIGIN in /home1/parururu/public_html/mbweather/query_geoip.php on line 3
+[29-Mar-2015 20:18:28 America/Denver] PHP Notice:  Undefined index: HTTP_ORIGIN in /home1/parururu/public_html/mbweather/query_geoip.php on line 3

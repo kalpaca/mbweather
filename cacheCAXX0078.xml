@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+      <channel>
+        <title>The Weather Channel: Your Local Weather Outlook--Churchill, MB, Canada</title>
+        <link>http://www.weather.com/weather/local/CAXX0078?cm_ven=LWO&amp;cm_cat=rss&amp;cm_pla=city_page&amp;cm_ite=cc2&amp;site=city_page</link>
+        <description><![CDATA[Local Weather Outlook for Churchill, MB, Canada. Since 1982, The Weather Channel has brought timely weather information to the world. Now via our Local Weather Outlook RSS feed we can keep you up-to-date on the latest weather affecting the cities of your choice including: current local conditions, local Doppler radar, pollen trends, regional video forecasts with expert commentary, and extended forecast details delivered right to your desktop. The Weather Channel...Bringing Weather To Life]]></description>
+        <language><![CDATA[en-us]]></language>
+        <copyright><![CDATA[Copyright © 2006, The Weather Channel Interactive, Inc.]]></copyright>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <lastBuildDate>Sun, 29 Mar 2015 00:39:32 EDT</lastBuildDate>
+        <docs><![CDATA[http://blogs.law.harvard.edi/tech/rss]]></docs>
+        <ttl>30</ttl>
+        <image>
+          <title><![CDATA[The Weather Channel: Local Weather Outlook]]></title>
+          <url><![CDATA[http://image.weather.com/web/common/logos/twci_logo_110x104.jpg?cm_ven=LWO&cm_pla=logo&cm_ite=homepage&site=logo&cm_cat=&par=LWO_]]></url>
+          <link><![CDATA[http://www.weather.com?cm_ven=LWO&cm_pla=logo&cm_ite=homepage&site=logo&cm_cat=&par=LWO_]]></link>
+          <description><![CDATA[Local Weather Outlook from The Weather Channel]]></description>
+        </image>
+        <item>
+        <guid isPermaLink="false">0.3091796766267796</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Current Weather Conditions In Churchill, MB, Canada]]></title>
+        <link><![CDATA[http://www.weather.com/weather/local/CAXX0078?cm_pla=city_page&cm_ite=cc&site=city_page&cm_ven=LWO&cm_cat=&par=LWO_]]></link>
+        <description><![CDATA[<img src="http://image.weather.com/web/common/wxicons/31/26.gif?12122006" alt="" />, and 22 &deg; F. For more details?]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">1.2483094337379217</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Your Local Doppler Radar]]></title>
+        <link><![CDATA[http://www.weather.com/weather/map/CAXX0078?cm_ven=LWO&cm_pla=map&site=map&cm_ite=doplr_sat&cm_cat=&par=LWO_]]></link>
+        <description><![CDATA[This map shows the location and intensity of precipitation in your area. The color of the precipitation corresponds to the rate at which it is falling.  This map is updated every 15 minutes.]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">0.26011401177608806</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Pollen Trend for Churchill, MB, Canada]]></title>
+        <link><![CDATA[http://www.weather.com/outlook/health/allergies/weather/tenday/CAXX0078?cm_ven=LWO&cm_pla=city_page&cm_ite=10day_pollen&site=city_page&cm_cat=&par=LWO_]]></link>
+        <description><![CDATA[View complete PollenCast?]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">1.3872911590528103</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Video: Your Regional Weather Forecast]]></title>
+        <link><![CDATA[http://www.weather.com/multimedia/videoplayer.html?collection=topstory&clip=365&cm_ven=LWO&cm_pla=video&site=video&cm_cat=&par=LWO_]]></link>
+        <description><![CDATA[Watch what the experts at The Weather Channel® have to say about the weather trends in your area.]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">2.581894710101115</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[ADV: Upgrade to weather.com Gold!]]></title>
+        <link><![CDATA[http://www.weather.com/services/weathergold.html?cm_ven=LWO&cm_pla=ad&cm_ite=gold&site=adv_gold&cm_cat=&from=&refer=&par=LWO_]]></link>
+        <description><![CDATA[Get advanced storm tracking maps and weather for 10 cities in one-click, all with no ads!  Start your free trial now.]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">2.8434438268721793</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Your Weekend Forecast For Churchill, MB, Canada]]></title>
+        <link><![CDATA[http://www.weather.com/weather/weekend/CAXX0078?cm_ven=LWO&cm_pla=city_page&cm_ite=weekend&site=city_page&cm_cat=&locid=CAXX0078&par=LWO_]]></link>
+        <description><![CDATA[Chance of Precipitation: Fri: 10% / Sat: 10% / Sun: 10%. For complete forecast details...]]></description>
+      </item>
+        <item>
+        <guid isPermaLink="false">4.452570180056254</guid>
+        <pubDate>Sun, 29 Mar 2015 00:39:32 EDT</pubDate>
+        <title><![CDATA[Your 10-Day Forecast for Churchill, MB, Canada]]></title>
+        <link><![CDATA[http://www.weather.com/weather/tenday/CAXX0078?cm_ven=LWO&cm_pla=city_page&cm_ite=10-day&site=city_page&cm_cat=&locid=CAXX0078&par=LWO_]]></link>
+        <description><![CDATA[Today:  & High null&deg;F / Low 4&deg;F.--- Sun:  & High 7&deg;F / Low -4&deg;F.--- Mon:  & High 4&deg;F / Low -11&deg;F.--- Tue:  & Beyond.... For more details?]]></description>
+      </item>
+      </channel>
+    </rss>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+<link rel="stylesheet" href="/mbweather/jquery-ui-1.8.18.custom-tab.css"/>
+<link rel="stylesheet" href="/mbweather/weather_style.css"/>
+
+
+
+</head>
+<body id="body">
+
+<div id="weather_wrap">	<div id="welcome_msg"></div>		<div id='tabs'  class='tabs'>		<ul id='tabNav' class='tabNav'>			<li>			<a href='#WINNIPEG'>WINNIPEG</a>			</li>			<li>			<a href='#THOMPSON'>BRANDON</a>			</li>			<li>			<a href='#SELKIRK'>SELKIRK</a>			</li>							<li>			<a href='#STEINBACH'>STEINBACH</a>			</li>			<li>			<a href='#WINKLER'>WINKLER</a>			</li>			<li>			<a href='#ORTAGE LA PRAIRIE'>PORTAGE LA PRAIRIE</a>			</li>								<li>			<a href='#FLIN FLON'>FLIN FLON</a>			</li>					<li>			<a href='#CHURCHILL'>CHURCHILL</a>			</li>						<li>			<a href='#MORRIS'>MORRIS</a>			</li>				</ul>	</div><!--tabs-->		
+<div id="sun_info_loader"><img src="images/loading.gif" /></div>
+<div id="weather_info_loader"><img src="images/loading.gif" /></div>
+	<table width='100%' border='0' align='left' cellpadding='10' cellspacing='0' id='weather_info' class="info">
+	<tbody>
+		<tr><td class='weather_title' width='40%'><span id='weather_location'></span>Current Weather</td>
+			<td class='weather_title' colspan='3'>Short Term Forecast</td>
+		</tr>
+		<tr id = 'first_row'>
+			<td id='curr_img' width='40%' rowspan='2' ></td>
+			<td id='ext_days0' class='weather_day' width='20%'></td>
+			<td id='ext_days1' class='weather_day' width='20%'></td>
+			<td id='ext_days2' class='weather_day' width='20%'></td>
+		</tr>
+		<tr id = 'weather_icon'>
+			<td width='20%'></td>
+			<td width='20%'></td>
+			<td width='20%'></td>
+		</tr>
+		<tr id = 'weather_condition'>
+			<td id = 'curr_cond' class='weather_sep' width='40%'></td>
+			<td id = 'ext_cond0' class='weather_sep' width='20%'></td>
+			<td id = 'ext_cond1' class='weather_sep' width='20%'></td>
+			<td id = 'ext_cond2' class='weather_sep' width='20%'></td>
+		</tr>
+		<tr id='temp_low'>
+			<td id = 'curr_temp' class='weather_temp' width='40%' rowspan='2'></td>
+			<td id = 'ext_low_temp0' class='weather_sep' width='20%'></td>
+			<td id = 'ext_low_temp1' class='weather_sep' width='20%'></td>
+			<td id = 'ext_low_temp2' class='weather_sep' width='20%'></td>
+		</tr>
+		<tr id='temp_high'>
+			<td id = 'ext_high_temp0' class='weather_sep' width='20%'></td>
+			<td id = 'ext_high_temp1' class='weather_sep' width='20%'></td>
+			<td id = 'ext_high_temp2' class='weather_sep' width='20%'></td>
+		</tr>
+		<tbody>
+	</table>
+	
+	<table width='100%' border='0' align='left' cellpadding='10' cellspacing='0' id='sun_info' class="info">
+		<tbody>
+			<tr><td class='weather_title' colspan='4'>4-DAY SUNRISE / SUNSET DATA</td></tr>
+		
+			<tr id = 'sunrise_info'>
+				<td id = 'sunrise0' class='weather_sep' width='25%'></td>
+				<td id = 'sunrise1' class='weather_sep' width='25%'></td>
+				<td id = 'sunrise2' class='weather_sep' width='25%'></td>
+				<td id = 'sunrise3' class='weather_sep' width='25%'></td>
+			</tr>
+			<tr id = 'sunset_info'>
+				<td id = 'sunset0' width='25%' class='weather_sep' ></td>
+				<td id = 'sunset1' width='25%' class='weather_sep' ></td>
+				<td id = 'sunset2' width='25%' class='weather_sep' ></td>
+				<td id = 'sunset3' width='25%' class='weather_sep' ></td>
+			</tr>
+		<tbody>
+	</table>
+	<div style="clear"></div>
+</div><!--weather_wrap-->
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/mbweather/jquery-ui-1.8.18.custom.min.js"></script>
+<script type="text/javascript" src="/mbweather/weather_detail.js" charset="utf-8"></script>
+
+</body>
+</html>

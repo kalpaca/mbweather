@@ -1,0 +1,29 @@
+@charset "utf-8";
+ 
+/* CSS Document */
+body{font-family: arial,sans-serif;font-size:small}
+#sun_info_loader {left: 50%; position: relative; top: 450px;}
+ 
+#weather_wrap {width:958px;height:auto;margin:10px auto 20px;border:1px solid #aed5d9;}
+ 
+#weather_info_loader {left: 50%; position: relative; top: 220px;}
+ 
+#weather_info {font-size:12px; margin: 20px auto;border:2px solid #aed5d9}
+ 
+.info table {display:block;width:958px;}
+ 
+#welcome_msg {width:938px;text-align:left;padding:10px;line-height:30px;}
+ 
+#curr_img {padding:10px 20px;}
+#curr_cond {font-size:26px;}
+#weather_location {font-size:20px;font-weight:bold;color:#FFF;}
+ 
+.weather_title {font-size:20px;font-weight:bold;padding:10px 20px;}
+ 
+.weather_day {font-size:14px;font-weight:bold;border-bottom:1px #CCC;padding:30px 20px;}
+ 
+.weather_temp {font-size:24px;font-weight:bold;border-bottom:1px dashed #CCC;padding:10px 20px;}
+ 
+.weather_sep {border-bottom:1px dashed #CCC;padding:10px 20px;height:39px}
+
+#sun_info {font-size:12px;margin: 0 auto;border:2px solid #aed5d9}

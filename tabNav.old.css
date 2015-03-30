@@ -1,0 +1,32 @@
+ul#tabNav {
+	list-style: none;
+	border-bottom: solid 1px black;
+	/*padding-left: 0;*/
+	padding-bottom: 31px;/*google chrome one pixel more than li height*/
+    }
+#tabNav li.tabSelected {
+	border-bottom: solid 1px #EFEFEF;/*container backgraound color or be same with background*/
+	background-color: #EFEFEF;
+}
+ul#tabNav li {
+	float: left;
+	height: 30px;
+	margin: 0 20px -2px 0;/*important*/
+
+	border: solid 1px black;
+	border-bottom: 0;
+	padding: 0;
+}
+ul#tabNav a:link, ul#tabNav a:visited {
+	display: block;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 5px 10px 5px 10px;/*important*/
+}
+
+.tabs {
+	font-family: Courier;
+	
+	margin: 10px auto;
+}

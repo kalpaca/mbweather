@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cityinfo>
+<city><name>Brandon</name><latitude>49.84334</latitude><longitude>-99.95044</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Dauphin</name><latitude>51.15007</latitude><longitude>-100.0497</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Flin Flon</name><latitude>54.76848</latitude><longitude>-101.8772</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Portage la Prairie</name><latitude>49.97277</latitude><longitude>-98.29043</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Selkirk</name><latitude>50.14250</latitude><longitude>-96.87070</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Steinbach</name><latitude>49.52564</latitude><longitude>-96.68467</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Thompson</name><latitude>55.74630</latitude><longitude>-97.85012</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Winkler</name><latitude>49.17991</latitude><longitude>-97.93844</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Winnipeg</name><latitude>49.89990</latitude><longitude>-97.13888</longitude><region>MB</region><country>CA</country></city>
+<city><name>Churchill</name><latitude>58.76917</latitude><longitude>-94.169167</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Morris</name><latitude>49.35</latitude><longitude>-97.36667</longitude><region>MB</region><country>CA</country></city>	
+<city><name>Manitou</name><latitude>49.24056</latitude><longitude>-98.53667</longitude><region>MB</region><country>CA</country></city>	
+</cityinfo>
